@@ -1,4 +1,4 @@
-# Image Processing with Vision Tracking
+# Image Processing for Vision Tracking with OpenCV
 
 A simple vision tracking example using a sample image from the internet and OpenCV.
 The vision tracking code can be found [here](src/test/java/frc/Vision.java).
